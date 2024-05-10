@@ -1,0 +1,26 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    background-color: rgb(44,41,38);
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#main-header{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(29, 26, 24);
+    padding: 0 20px;
+}
+
+#logo{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(238,164,80);
+    text-transform: uppercase;
+}
